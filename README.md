@@ -9,4 +9,4 @@
 ### Диаграмма классов
 ![Диаграмма классов](https://github.com/VS-zer0/UML-diagrams-for-project/blob/main/UML%20Class.png)
 ### Генерация кода C++ диаграммы классов с помощью [Mistral AI](https://chat.mistral.ai/)
-![Генерация кода C++](https://github.com/VS-zer0/UML-diagrams-for-project/blob/main/PlantUML%20to%20C%2B%2B.webm.mp4)
+[!(PlantUML to C++.webm)](https://github.com/VS-zer0/UML-diagrams-for-project/assets/78421895/97b55b03-087e-47aa-9c3a-32699d502b6e.mp4)
